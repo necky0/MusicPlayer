@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#007c6e</color>
+    <color name="colorPrimaryDark">#004139</color>
+    <color name="colorAccent">#ff596c</color>
+    <color name="verdigris">#00a693</color>
+    <color name="verdigris_light">#00cfb7</color>
+    <color name="white">#ffffff</color>
+</resources>
